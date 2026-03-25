@@ -1,3 +1,9 @@
+---
+layout: default
+title: Terms of Use
+permalink: /terms-of-use/
+---
+
 # Terms of Use
 
 Last updated: March 25, 2026
